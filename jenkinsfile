@@ -8,7 +8,7 @@ echo "build completed successfully"
         }
 stage('Test') {
 steps {
-echo "test completed successfully"
+echo "test1 completed successfully"
     }
     }
 stage('Package') {
